@@ -1,0 +1,5 @@
+baseURL = 'www.cs1660shivani.com'
+languageCode = 'en-us'
+title = 'Shivani CS 1656 Static Site Assignment'
+theme = 'ananke'
+

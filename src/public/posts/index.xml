@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shivani CS 1656 Static Site Assignment</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Shivani CS 1656 Static Site Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 14:24:02 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 10 Apr 2024 14:24:02 -0400</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction This is Shivani&amp;rsquo;s website, and this is my CS1656 Static Site Project text.</description>
+    </item>
+  </channel>
+</rss>
